@@ -1,0 +1,21 @@
+﻿+++++ +++++             valoarea elementului curent ajunge la 10
+[                       se folosește o buclă pentru a stabili valoarea următoarelor 4 elemente la 70/100/30/10
+    > +++++ ++              adună 7 la elementul 1
+    > +++++ +++++           adună 10 la elementul 2 
+    > +++                   adună 3 la elementul 3
+    > +                     adună 1 la elementul 4
+    <<<< -                  decrementează elementul 0
+]                   
+> ++ .                  afișează 'H'
+> + .                   afișează 'e'
++++++ ++ .              afișează 'l'
+.                       afișează 'l'
++++ .                   afișează 'o'
+> ++ .                  afișează ' '
+<< +++++ +++++ +++++ .  afișează 'W'
+> .                     afișează 'o'
++++ .                   afișează 'r'
+----- - .               afișează 'l'
+----- --- .             afișează 'd'
+> + .                   afișează '!'
+> .                     afișează '\n'
